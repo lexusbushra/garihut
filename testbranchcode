@@ -12,6 +12,8 @@
 <p id="demo">A Paragraph.</p>
 
 <button type="button" onclick="myFunction()">Try it</button>
+<button type="button" onclick="myFunction()">Try it 2</button>
+<button type="button" onclick="myFunction()">Try it 3</button>
 
 <p>(myFunction is stored in an external file called "myScript.js")</p>
 
