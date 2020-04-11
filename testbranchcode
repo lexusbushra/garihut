@@ -2,7 +2,12 @@
 <html>
 <body>
 
-<h2>External JavaScript</h2>
+<h2>External JavaScript 1</h2>
+<h2>External JavaScript 2</h2>
+<h2>External JavaScript 3 </h2>
+<h2>External JavaScript 4 </h2>
+
+
 
 <p id="demo">A Paragraph.</p>
 
